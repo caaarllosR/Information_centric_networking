@@ -1,0 +1,5 @@
+# Information_centric_networking
+
+Um simulador simples de uma rede orientada a conteudo. Diferente do paradigma cliente-servidor que é utilizado atualmente, o conteudo requisitado pelo cliente está armazenado nos nós da rede, no caso deste projeto nos roteadores (não-residenciais) de acordo com a demanda do conteudo por região, assim reduzindo significativamente a necessidade de uma requisição de conteudo a diretamente ao servirdor que no paradigma atual centraliza todo conteudo. Entenda por conteudo qualquer dado de interesse de um cliente, como filmes e series.
+
+A simple simulator of an Information centric networking. Unlike the client-server paradigm that is currently used, the content requested by the client is stored on network nodes, in the case of this project on routers (non-residential) according to the content demand by region, thus significantly reducing the need for a content request directly to the server, which in the current paradigm centralizes all content. Understand by content any data of interest to a client, such as films and series.
